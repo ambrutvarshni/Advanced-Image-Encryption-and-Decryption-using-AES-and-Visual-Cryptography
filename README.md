@@ -1,4 +1,4 @@
-Title: Image Encryption Using AES and Visual Cryptography
+Image Encryption Using AES and Visual Cryptography
 
 Description:
 This project implements a novel image encryption algorithm based on AES (Advanced Encryption Standard) and Visual Cryptography. The implementation follows the IEEE paper titled "A Novel Image Encryption Algorithm using AES and Visual Cryptography". The encryption process involves converting an image into ciphertext using AES encryption combined with Visual Cryptography techniques.
